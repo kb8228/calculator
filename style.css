@@ -1,0 +1,21 @@
+.container {
+		height: 140px;
+	  width: 140px;
+	  background-color: lavender;
+	  text-align: center;
+	  padding: 6px;
+	  margin: 0px auto;
+}
+
+button {
+	border: none;
+	background: white;
+	height: 20px;
+	width: 29px;
+	margin: 2px auto;
+}
+
+#input {
+	text-align: right;
+}
+
